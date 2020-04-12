@@ -1,4 +1,4 @@
-# FP UPC Distro
+# Backup App
 
 Backup App is a script that is designed to be scheduled to run off a task scheduler. The app iterates through a specified directory, then compresses and saves user specified folders to a network drive.
 
